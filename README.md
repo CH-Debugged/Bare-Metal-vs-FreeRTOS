@@ -33,6 +33,26 @@ Two implementations were built and tested on identical hardware in Wokwi:
 
 ---
 
+## Components & Wiring
+
+**Hardware**
+- Arduino Mega 2560
+- 20x4 I2C LCD module
+- 3x push buttons
+- 3x LEDs
+
+**Pin Assignments**
+| Component | Arduino Pin |
+|---|---|
+| Button 1 | D2 |
+| Button 2 | D3 |
+| Button 3 | D4 |
+| LED 1 | D8 |
+| LED 2 | D9 |
+| LED 3 | D10 |
+| I2C LCD SDA | SDA (Pin 20) |
+| I2C LCD SCL | SCL (Pin 21) |
+
 ## Results
 
 | Test Condition | Free Memory | Response Time | Outcome |
