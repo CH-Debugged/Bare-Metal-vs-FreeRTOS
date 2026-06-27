@@ -29,7 +29,7 @@ Two implementations were built and tested on identical hardware in Wokwi:
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](OScircuit_diagram.png)
 
 ---
 
