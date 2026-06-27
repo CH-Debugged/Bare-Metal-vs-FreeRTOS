@@ -57,16 +57,16 @@ Two implementations were built and tested on identical hardware in Wokwi:
 ## Serial Monitor Results
 
 ### Bare-Metal – No Load
-![Bare-Metal No Load](results/bare_metal_no_load.png)
+![Bare-Metal No Load](results/bare_metal_no_load.PNG)
 
 ### Bare-Metal – With Load
-![Bare-Metal With Load](results/bare_metal_with_load.png)
+![Bare-Metal With Load](results/bare_metal_with_load.PNG)
 
 ### FreeRTOS – No Load
-![FreeRTOS No Load](results/freertos_no_load.png)
+![FreeRTOS No Load](results/freertos_no_load.PNG)
 
 ### FreeRTOS – With Load
-![FreeRTOS With Load](results/freertos_with_load.png)
+![FreeRTOS With Load](results/freertos_with_load.PNG)
 
 ---
 
