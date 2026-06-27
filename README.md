@@ -60,13 +60,13 @@ Two implementations were built and tested on identical hardware in Wokwi:
 ![Bare-Metal No Load](bare_metal_no_load.png)
 
 ### Bare-Metal – With Load
-![Bare-Metal With Load](results/bare_metal_with_load.png)
+![Bare-Metal With Load](bare_metal_with_load.png)
 
 ### FreeRTOS – No Load
-![FreeRTOS No Load](results/freertos_no_load.png)
+![FreeRTOS No Load](freertos_no_load.png)
 
 ### FreeRTOS – With Load
-![FreeRTOS With Load](results/freertos_with_load.png)
+![FreeRTOS With Load](freertos_with_load.png)
 
 ---
 
