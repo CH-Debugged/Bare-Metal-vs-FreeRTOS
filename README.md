@@ -57,7 +57,7 @@ Two implementations were built and tested on identical hardware in Wokwi:
 ## Serial Monitor Results
 
 ### Bare-Metal – No Load
-![Bare-Metal No Load](results/bare_metal_no_load.png)
+![Bare-Metal No Load](bare_metal_no_load.png)
 
 ### Bare-Metal – With Load
 ![Bare-Metal With Load](results/bare_metal_with_load.png)
